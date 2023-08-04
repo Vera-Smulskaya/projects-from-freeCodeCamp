@@ -73,3 +73,14 @@ input[type="file"] {
   padding: 1px 2px;
   color: #dfdfe2;
 }
+
+.return-button {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: #0a0a23;
+  border: 1px solid #0a0a23;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 1.1rem;
+}
